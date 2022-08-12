@@ -1,0 +1,54 @@
+[
+    {
+        "username": "ppp",
+        "userlogin": "ppp",
+        "usermail": "r-box97@mail.ru",
+        "password": "$2y$10$gpGHi3iK.Evg05v7eQSznO\/\/\/H53GZYGQL684rRDBk8OekUZ0UXZ."
+    },
+    {
+        "username": "ttt",
+        "userlogin": "ttt",
+        "usermail": "ttt",
+        "password": "$2y$10$oSXYysiE2meeRwJPp.gUPupjpQnfyfF04sk4FBiv.cGfa3ZDxfdmG"
+    },
+    {
+        "username": "lll",
+        "userlogin": "lll",
+        "usermail": "lll",
+        "password": "$2y$10$Be70hrcnAkptMvDtKTnuKOMYwlFve2dYlSAaeREnP\/BkS34ptsyi2"
+    },
+    {
+        "username": "ooo",
+        "userlogin": "ooo",
+        "usermail": "r-box97@mail.ru",
+        "password": "$2y$10$paRwamADIw7T7MTTZ3uaWeRerGMX7Unc6u9gq6z2Lxf4XG91TpQeq"
+    },
+    {
+        "username": "iii",
+        "userlogin": "iii",
+        "usermail": "r-box97@mail.ru",
+        "password": "$2y$10$AwuoMOKYvzu1Fx91OarNBeuKlM5KOazsxQgjbwDmqVBtqvRiIC\/Ka",
+        "cpassword": "$2y$10$AwuoMOKYvzu1Fx91OarNBeuKlM5KOazsxQgjbwDmqVBtqvRiIC\/Ka"
+    },
+    {
+        "username": "bbb",
+        "userlogin": "bbb",
+        "usermail": "r-box97@mail.ru",
+        "password": "$2y$10$wAi4Vo.wrwiMaahJxRs\/4.fvu.Tn6fmev2ikUtyTlX2FV0lGBx\/qK",
+        "cpassword": "$2y$10$wAi4Vo.wrwiMaahJxRs\/4.fvu.Tn6fmev2ikUtyTlX2FV0lGBx\/qK"
+    },
+    {
+        "username": "vv",
+        "userlogin": "vvvvvv",
+        "usermail": "r-box97@mail.ru",
+        "password": "$2y$10$6z.3keHKAk1MILUzpiDem.DscKJEcINFxio5q.Qz7Kk2LTCRXbuOG",
+        "cpassword": "$2y$10$6z.3keHKAk1MILUzpiDem.DscKJEcINFxio5q.Qz7Kk2LTCRXbuOG"
+    },
+    {
+        "username": "mm",
+        "userlogin": "mmmmmm",
+        "usermail": "r-box97@mail.ru",
+        "password": "$2y$10$h5i99aojcy6Hftik.9VSCO\/fUlLEauO32jlkTFmq.dBAmjqt0ftoy",
+        "cpassword": "$2y$10$h5i99aojcy6Hftik.9VSCO\/fUlLEauO32jlkTFmq.dBAmjqt0ftoy"
+    }
+]
